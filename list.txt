@@ -1,5 +1,3 @@
-«««< HEAD
 Tcitcer Nikita Sergeevich
-=======
 Deikina Sofia Alekseevna
-»»»> feature/listSofia
+
